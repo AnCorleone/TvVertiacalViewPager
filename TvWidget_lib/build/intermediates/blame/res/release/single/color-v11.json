@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\pro\\VerticalViewPager\\TvWidget_lib\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "D:\\pro\\VerticalViewPager\\TvWidget_lib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\pro\\dyth\\TvWidget_lib\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "D:\\pro\\dyth\\TvWidget_lib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\pro\\VerticalViewPager\\TvWidget_lib\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "D:\\pro\\VerticalViewPager\\TvWidget_lib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\pro\\dyth\\TvWidget_lib\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "D:\\pro\\dyth\\TvWidget_lib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

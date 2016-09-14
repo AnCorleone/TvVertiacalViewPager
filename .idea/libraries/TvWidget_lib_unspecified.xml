@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="TvWidget_lib-unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sample/build/intermediates/exploded-aar/VerticalViewPager/TvWidget_lib/unspecified/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/sample/build/intermediates/exploded-aar/VerticalViewPager/TvWidget_lib/unspecified/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
